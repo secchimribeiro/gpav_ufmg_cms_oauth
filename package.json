@@ -1,0 +1,7 @@
+{
+  "name": "gpav-ufmg-cms-oauth",
+  "private": true,
+  "dependencies": {
+    "@openlab/vercel-netlify-cms-github": "^1.0.0"
+  }
+}
